@@ -30,10 +30,11 @@ Estimativa On-Demand para uma máquina Linux com **2 CPUs, 1 GiB RAM, até 5 Gbp
 
 | Região | Instância | Custo mensal (On-Demand) |
 |--------|-----------|--------------------------|
-| São Paulo — `sa-east-1` | *(preencher instância)* | *(preencher valor)* |
-| Virgínia do Norte — `us-east-1` | *(preencher instância)* | *(preencher valor)* |
+| São Paulo — `sa-east-1` | t3.micro | $19,86 USD |
+| Virgínia do Norte — `us-east-1` | t3.micro | $11,59 USD |
 
-> 📸 Prints detalhados das cotações disponíveis em [`aws/prints_sao_paulo/`](./aws/prints_sao_paulo/) e [`aws/prints_virginia/`](./aws/prints_virginia/)
+> 📸 Prints detalhados das cotações disponíveis em ![Cotação São Paulo](aws/prints_sao_paulo/cotacao_sao_paulo.png)
+![Cotação Virgínia](aws/prints_virginia/cotacao_virginia.png)
 
 ### Justificativa Técnica
 
