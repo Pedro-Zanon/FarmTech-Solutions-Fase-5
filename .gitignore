@@ -3,7 +3,7 @@
 *.pkl
 *.pyc
 __pycache__/
-*.csv
 .ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+.idea/
