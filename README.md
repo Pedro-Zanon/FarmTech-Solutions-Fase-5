@@ -12,7 +12,7 @@ Todo o desenvolvimento, código comentado, análises e conclusões estão no not
 
 ---
 
-## 🎬 Vídeos Demonstrativos
+## Vídeos Demonstrativos
 
 - 📹 Vídeo 1 — Machine Learning: *(https://www.youtube.com/watch?v=ahFJQGES_18)*
 - 📹 Vídeo 2 — AWS: *(https://youtu.be/Ipf548WU-JM)*
