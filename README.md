@@ -4,6 +4,21 @@ Sistema de Machine Learning para previsão de rendimento de safra com base em da
 
 ---
 
+## 📓 Notebook
+
+Todo o desenvolvimento, código comentado, análises e conclusões estão no notebook abaixo:
+
+👉 [Acessar o Notebook Completo](https://github.com/Pedro-Zanon/FarmTech-Solutions-Fase-5/blob/main/notebook/PBL_FarmTech_Fase5%20(1).ipynb)
+
+---
+
+## 🎬 Vídeos Demonstrativos
+
+- 📹 Vídeo 1 — Machine Learning: *(https://www.youtube.com/watch?v=ahFJQGES_18)*
+- 📹 Vídeo 2 — AWS: *(https://youtu.be/Ipf548WU-JM)*
+
+---
+
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
