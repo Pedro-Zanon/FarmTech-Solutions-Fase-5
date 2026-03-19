@@ -4,7 +4,7 @@ Sistema de Machine Learning para previsão de rendimento de safra com base em da
 
 ---
 
-## 📓 Notebook
+## Notebook
 
 Todo o desenvolvimento, código comentado, análises e conclusões estão no notebook abaixo:
 
